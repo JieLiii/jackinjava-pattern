@@ -5,7 +5,7 @@ import annotation.Table;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 
-public class MainAnnotation {
+public class TestAnnotation {
 	public static void main(String[] args) throws Exception{
 		Student student = new Student();
 		student.setId("001");
